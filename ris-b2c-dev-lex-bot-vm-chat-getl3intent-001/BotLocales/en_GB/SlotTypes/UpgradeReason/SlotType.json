@@ -1,1 +1,0 @@
-{"name":"UpgradeReason","identifier":"RYZAOYINWV","description":"Why does the customer want to upgrade?","slotTypeValues":[{"synonyms":null,"sampleValue":{"value":"moving home"}}],"parentSlotTypeSignature":null,"valueSelectionSetting":{"resolutionStrategy":"TOP_RESOLUTION","advancedRecognitionSetting":null,"regexFilter":null}}
