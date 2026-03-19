@@ -1,1 +1,0 @@
-{"name":"ReturnRequestType","identifier":"HUAQGPQPFX","description":"What kind of request is the customer making about a return?","slotTypeValues":[{"synonyms":null,"sampleValue":{"value":"label"}}],"parentSlotTypeSignature":null,"valueSelectionSetting":{"resolutionStrategy":"TOP_RESOLUTION","advancedRecognitionSetting":null,"regexFilter":null}}
